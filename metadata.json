@@ -1,0 +1,7 @@
+{
+  "name": "Hatmann Audio Analyzer",
+  "description": "A professional-grade audio analysis and enhancement suite powered by Gemini Live AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
